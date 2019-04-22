@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Speed Introduction
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Greg.  I'm a newbie to SRE and DevOps, but experienced in software
+development, testing, and management.  I started this blog to record some of the activities I am currently working on as I forge this new, exciting career path.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The page will not serve as a tutorial source, but will likely have some useful personal anecdotes around various implementations that I work on in my spare time.  
 
-What else do you need?
+### Likes 👍
+- Cats 😻
+- Dogs 🐩
+- Pretty much any animal that lets me pet them 🐝
+- Jazz 🎷
+- Technical Death Metal 🤘
+- Most music in between Jazz and Technical Death Metal
+- My instruments 🎸🎸🎸🎸🎸🎸🎸
+- Cycling 🚴
+- Magic the Gathering 🐉
+- Nice people 👋
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Dislikes 👎
+- Mean people 🖕
